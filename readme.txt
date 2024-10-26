@@ -1,1 +1,2 @@
-"Hello!"
+"Hello"
+Learning is fun!
